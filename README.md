@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:zb01406@gmail.com?subject=Hello%Zack,%20From%20Github)  &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:zb01406@gmail.com?subject=Hello%20Zack,%20From%20Github)  &nbsp;
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/_ZackBz)  &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/zb01406/) 
 </div>
