@@ -11,9 +11,15 @@
 
 <div align="center">
    <a href="https://www.linkedin.com/in/zb01406/">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,php,laravel,go,bash,docker,git,linux,md,mysql,vim,vscode&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,php,laravel,bash,docker,git,linux,md,mysql,vim,vscode&perline=4" />
   </a>
 </div>
+
+## 🏆 My Stats:
+
+<p>
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackbz&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
 
 
 ## 📖 Read My Blogs:
