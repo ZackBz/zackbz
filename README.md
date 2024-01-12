@@ -1,25 +1,32 @@
+### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+
+I'm Zack a Web Developer passionate about creating high-quality websites and applications.
+
+🌱 Currently learning **Go**
+
 ## Connect With Me
 
 <div align="center">
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:zb01406@gmail.com?subject=Hello%20Zack,%20From%20Github)  &nbsp;
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/_ZackBz)  &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/zb01406/) 
 </div>
 
 ## My Skills
 
 <div align="center">
-   <a href="https://www.linkedin.com/in/zb01406/">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,php,laravel,bash,docker,git,linux,md,mysql,vim,vscode&perline=4" />
-  </a>
 </div>
 
-## 🏆 My Stats:
+<details>
+<summary>⚡️ More about my coding life</summary>
+<br />
 
-<p>
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackbz&layout=compact&theme=dark" />&nbsp;&nbsp;
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zackbz&layout=compact&theme=onedark)
+
+![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=zackbz&count_private=true&show_icons=true&theme=onedark)
+
+</details>
 
 
 ## 📖 Read My Blogs:
