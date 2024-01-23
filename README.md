@@ -22,12 +22,10 @@ I'm Zack a Web Developer passionate about creating high-quality websites and app
 &nbsp;
 &nbsp;
 <div align="center">
-
+<!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zackbz&layout=compact&theme=onedark)    &nbsp;
 ![Zackbz's github stats](https://github-readme-stats.vercel.app/api?username=zackbz&count_private=true&show_icons=true&theme=onedark)
 </div>
-
-<!---
 ## 📖 Read My Blogs:
 
 <p align="center">
