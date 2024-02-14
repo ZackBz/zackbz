@@ -3,7 +3,7 @@
 I'm Zack a Web Developer passionate about creating high-quality websites and applications.
 
 * 🌍  I'm based in **New York**
-* 🚀  I'm currently working on projects @ **SnowLabs** for fun.
+* 🚀  I'm currently working on projects @ **SnowLabs**
 * 🌱 Currently learning **Go**
 
 ## Connect With Me
