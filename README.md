@@ -3,7 +3,7 @@
 I'm Zack a Web Developer passionate about creating high-quality websites and applications.
 
 * 🌍  I'm based in **New York**
-* 🚀  I'm currently working on projects @ **SnowLabs**
+* 🚀  I'm currently working on projects @ **HydraForge**
 * 🌱 Currently learning **Go**
 
 ## Connect With Me
@@ -17,7 +17,7 @@ I'm Zack a Web Developer passionate about creating high-quality websites and app
 ## My Skills
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,php,laravel,bash,docker,git,linux,md,mysql,vim,vscode&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,vue,sass,tailwind,php,laravel,bash,docker,git,linux,md,mysql,vim,vscode&perline=4" />
 </div>
 &nbsp;
 &nbsp;
