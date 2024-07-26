@@ -17,19 +17,5 @@ I'm Zack a Web Developer passionate about creating high-quality websites and app
 ## My Skills
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vue,sass,tailwind,php,laravel,bash,docker,git,linux,md,mysql,vim,vscode&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,vue,sass,tailwind,php,bash,docker,git,linux,md,mysql,vim,bun&perline=4" />
 </div>
-&nbsp;
-&nbsp;
-<div align="center">
-<!---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zackbz&layout=compact&theme=onedark)    &nbsp;
-![Zackbz's github stats](https://github-readme-stats.vercel.app/api?username=zackbz&count_private=true&show_icons=true&theme=onedark)
-</div>
-## 📖 Read My Blogs:
-
-<p align="center">
-    <a target="_blank"href="https://dev.to/zackbz"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;
-    <a target="_blank"href="https://hashnode.com/@zackbz"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;
-</p>
--->
