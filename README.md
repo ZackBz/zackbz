@@ -2,9 +2,6 @@
 
 I'm Zack a Web Developer passionate about creating high-quality websites and applications.
 
-* 🌍  I'm based in **New York**
-* 🚀  I'm currently working on projects @ **HydraForge**
-
 ## Connect With Me
 
 <div align="center">
