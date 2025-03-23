@@ -13,5 +13,5 @@ I'm Zack a Web Developer passionate about creating high-quality websites and app
 ## My Skills
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vue,sass,tailwind,php,bash,docker,git,linux,md,mysql,vim,bun&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,php,bash,docker,git,linux,md,mysql,vim,bun&perline=4" />
 </div>
