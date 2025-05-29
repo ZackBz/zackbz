@@ -7,7 +7,6 @@ I'm Zack a Web Developer passionate about creating high-quality websites and app
 <div align="center">
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:zb01406@gmail.com?subject=Hello%20Zack,%20From%20Github)  &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/zb01406/) 
 </div>
 
 ## My Skills
